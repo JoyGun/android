@@ -1,0 +1,4 @@
+#Tue Apr 07 17:22:07 CST 2020
+base.0=E\:\\lai\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex

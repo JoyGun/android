@@ -1,0 +1,3 @@
+include ':app', ':sdk', ':idcardocr'
+
+include ':openCVLibrary347'

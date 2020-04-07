@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.idcardocr">
+
+    <application
+        android:allowBackup="false"
+        android:supportsRtl="true">
+        <activity
+            android:name=".IDCardOCR"
+            android:label="@string/title_activity_ocr"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>
